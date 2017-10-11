@@ -5,6 +5,8 @@ import serial
 
 ser = serial.Serial('COM3', 115200)
 
+#NewLine
+
 results = []
 calibrationList = []
 dataList = []
